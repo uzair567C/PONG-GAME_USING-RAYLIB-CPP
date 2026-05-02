@@ -1,0 +1,16 @@
+# Ignore compiled executables
+bin/
+*.exe
+*.out
+
+# Ignore intermediate build files
+obj/
+*.o
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+.vscode
+
+# Optional: Ignore your local settings save
+setting.txt
